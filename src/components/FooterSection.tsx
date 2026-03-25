@@ -19,8 +19,8 @@ const FooterSection = () => {
           >
             <Instagram className="w-5 h-5" />
           </a>
-          <a href="mailto:hello@proleansip.com" className="text-muted-foreground hover:text-primary transition-colors text-sm">
-            hello@proleansip.com
+          <a href="mailto:enquiry@proleansip.com" className="text-muted-foreground hover:text-primary transition-colors text-sm">
+            enquiry@proleansip.com
           </a>
         </div>
 
