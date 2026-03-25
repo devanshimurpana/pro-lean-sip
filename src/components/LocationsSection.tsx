@@ -37,7 +37,7 @@ const LocationsSection = () => {
             Want a machine at your location?
           </p>
           <a
-            href="mailto:hello@proleansip.com"
+            href="mailto:enquiry@proleansip.com"
             className="inline-block bg-primary text-primary-foreground font-display px-8 py-3 rounded-sm tracking-widest uppercase hover:box-glow-intense transition-shadow duration-300"
           >
             Contact Us
