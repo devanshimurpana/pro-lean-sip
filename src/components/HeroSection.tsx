@@ -31,7 +31,8 @@ const HeroSection = () => {
         />
 
         <motion.h1
-          className="font-display text-5xl md:text-7xl lg:text-8xl font-bold text-foreground mb-4 tracking-tight"
+          className="font-display text-5xl md:text-7xl lg:text-8xl font-bold text-foreground mb-4 tracking-tight italic"
+          style={{ transform: 'skewX(-4deg)' }}
           initial={{ y: 30, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.6, delay: 0.2 }}
