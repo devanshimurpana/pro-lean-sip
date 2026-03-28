@@ -54,7 +54,7 @@ const HeroSection = () => {
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.6, delay: 0.6 }}
         >
-          Premium protein shakes on demand. High protein, low sugar, served hot or cold — 
+          Premium protein shakes on demand. High protein, low sugar — served 
           straight from our vending machines.
         </motion.p>
 
