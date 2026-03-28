@@ -130,10 +130,6 @@ const MenuSection = () => {
               {/* Header */}
               <div className="p-6 pb-4 flex items-start justify-between">
                 <div className="flex-1">
-                  <div className="flex items-center gap-2 mb-2">
-                    <Snowflake className="w-3.5 h-3.5 text-primary/70" />
-                  </div>
-                  </div>
                   <h3 className="font-display text-lg font-semibold leading-tight">
                     {menuItem.name}
                   </h3>
