@@ -19,8 +19,8 @@ const features = [
   },
   {
     icon: Snowflake,
-    title: "Hot & Cold",
-    description: "Choose your preferred temperature. Our machines serve both hot and cold shakes.",
+    title: "Ice Cold",
+    description: "Every shake is served perfectly chilled, straight from our vending machines.",
   },
 ];
 
